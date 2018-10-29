@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\SimpleTvLauncher\app\src\main\res"/><source path="D:\SimpleTvLauncher\app\build\generated\res\rs\debug"/><source path="D:\SimpleTvLauncher\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\SimpleTvLauncher\app\src\main\res"><file name="loading_bg_shape" path="D:\SimpleTvLauncher\app\src\main\res\drawable\loading_bg_shape.xml" qualifiers="" type="drawable"/><file name="bg" path="D:\SimpleTvLauncher\app\src\main\res\drawable-hdpi\bg.jpg" qualifiers="hdpi-v4" type="drawable"/><file name="icon_delete" path="D:\SimpleTvLauncher\app\src\main\res\drawable-hdpi\icon_delete.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\SimpleTvLauncher\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="loading" path="D:\SimpleTvLauncher\app\src\main\res\drawable-hdpi\loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="user_grid_item_focus" path="D:\SimpleTvLauncher\app\src\main\res\drawable-hdpi\user_grid_item_focus.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="activity_main" path="D:\SimpleTvLauncher\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="app_grid_item" path="D:\SimpleTvLauncher\app\src\main\res\layout\app_grid_item.xml" qualifiers="" type="layout"/><file name="app_pager_item" path="D:\SimpleTvLauncher\app\src\main\res\layout\app_pager_item.xml" qualifiers="" type="layout"/><file name="loading_dialog_layout" path="D:\SimpleTvLauncher\app\src\main\res\layout\loading_dialog_layout.xml" qualifiers="" type="layout"/><file path="D:\SimpleTvLauncher\app\src\main\res\values\color.xml" qualifiers=""><color name="white">#FFFFFF</color></file><file path="D:\SimpleTvLauncher\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">应用管理启动器</string><string name="hello_world">Hello world!</string><string name="dialog_loading">稍等一下</string></file><file path="D:\SimpleTvLauncher\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style></file></source><source path="D:\SimpleTvLauncher\app\build\generated\res\rs\debug"/><source path="D:\SimpleTvLauncher\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\SimpleTvLauncher\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\SimpleTvLauncher\app\src\debug\res"/></dataSet><mergedItems/></merger>

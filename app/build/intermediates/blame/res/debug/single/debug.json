@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_bg_shape.xml.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\drawable\\loading_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_dialog_layout.xml.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\layout\\loading_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_delete.png.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_pager_item.xml.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\layout\\app_pager_item.xml"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_grid_item.xml.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\layout\\app_grid_item.xml"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_grid_item_focus.9.png.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\drawable-hdpi\\user_grid_item_focus.9.png"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.jpg.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loading.png.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\SimpleTvLauncher\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\SimpleTvLauncher\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
