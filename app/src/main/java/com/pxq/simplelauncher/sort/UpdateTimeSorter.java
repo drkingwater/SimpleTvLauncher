@@ -6,15 +6,15 @@ import java.util.List;
 import com.pxq.simplelauncher.bean.App;
 
 /**
- * ¸ü¼ÓÓ¦ÓÃ¸üÐÂÊ±¼äÅÅÐò
+ * ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½Ã¸ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  * 
  * @author pxq
- * @date 2018Äê8ÔÂ2ÈÕ
+ * @date 2018ï¿½ï¿½8ï¿½ï¿½2ï¿½ï¿½
  */
 public class UpdateTimeSorter implements ISorter {
 
 	/**
-	 * @Field ÊÇ·ñÉýÐò£¬Ä¬ÈÏ½µÐò
+	 * @Field ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½Ä¬ï¿½Ï½ï¿½ï¿½ï¿½
 	 */
 	private boolean asc = false;
 
@@ -23,8 +23,8 @@ public class UpdateTimeSorter implements ISorter {
 	}
 
 	/**
-	 * ÉèÖÃÉýÐò¡¢½µÐò
-	 * @param asc true:ÉýÐò false:½µÐò
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ò¡¢½ï¿½ï¿½ï¿½
+	 * @param asc true:ï¿½ï¿½ï¿½ï¿½ false:ï¿½ï¿½ï¿½ï¿½
 	 */
 	public UpdateTimeSorter(boolean asc) {
 		super();
@@ -36,7 +36,7 @@ public class UpdateTimeSorter implements ISorter {
 		if (apps == null) {
 			return null;
 		}
-		Collections.sort(apps, new UpdateTimeComparetor(asc));
+		Collections.sort(apps, new UpdateTimeComparator(asc));
 		return apps;
 	}
 

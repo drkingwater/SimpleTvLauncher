@@ -4,19 +4,15 @@ import java.util.Comparator;
 
 import com.pxq.simplelauncher.bean.App;
 
-/**
- * 更加应用更新时间排序
- * @author pxq
- * @date 2018年8月2日
- */
-public class UpdateTimeComparetor implements Comparator<App>{
+
+public class UpdateTimeComparator implements Comparator<App>{
 	
 	/**
-	 * @Field 是否升序，默认降序
+	 * @Field 鏄惁鍗囧簭锛岄粯璁ら檷搴廸alse
 	 */
 	private boolean asc = false;
 
-	public UpdateTimeComparetor(boolean asc) {
+	public UpdateTimeComparator(boolean asc) {
 		super();
 		this.asc = asc;
 	}
